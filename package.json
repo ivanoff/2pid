@@ -1,0 +1,30 @@
+{
+  "name": "2pid",
+  "version": "1.0.0",
+  "description": "Pid control",
+  "main": "index.js",
+  "dependencies": {
+    "fs": "0.0.2",
+    "process": "^0.11.5"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ivanoff/2pid"
+  },
+  "devDependencies": {
+    "chai": "^3.5.0",
+    "mocha": "^2.5.3",
+    "should": "^9.0.2"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "keywords": [
+    "log"
+  ],
+  "author": {
+    "name": "Dimitry Ivanov # curl -A cv ivanoff.org.ua",
+    "email": "2@ivanoff.org.ua"
+  },
+  "license": "Apache 2.0"
+}
